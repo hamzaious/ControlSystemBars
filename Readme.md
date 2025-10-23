@@ -107,8 +107,8 @@ controlSystemBars(
 
 # Acknowledgements
 
-This work would not have been possible without the invaluable contributions of **Nisar Bahoo** & *
-*Hamza Arshad**. His expertise, dedication, and unwavering support have been instrumental in
+This work would not have been possible without the invaluable contributions of **Nisar Bahoo** & 
+**Hamza Arshad**. His expertise, dedication, and unwavering support have been instrumental in
 bringing this project to fruition.
 
 ![screenshot](https://github.com/hypersoftdev/TextCraft/blob/master/Screens/profile_image.jpg?raw=true)
