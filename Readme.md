@@ -47,42 +47,42 @@ controlSystemBars(
     // Show both **status** and **navigation** bars (no IME change). 
     SystemBarsAction.SHOW_SYSTEM_BARS,
 ```
-![screenshot](https://github.com/hamzaious/ControlSystemBars/blob/master/screenshot/ss1.mp4)
+![screenshot](https://github.com/hamzaious/ControlSystemBars/blob/master/screenshot/ss1.png)
 ```
     // Hide **status** bar, show **navigation** bar (no IME change). 
     SystemBarsAction.HIDE_STATUS_SHOW_NAV,
 ```
-![screenshot](https://github.com/hamzaious/ControlSystemBars/blob/master/screenshot/ss4.mp4)
+![screenshot](https://github.com/hamzaious/ControlSystemBars/blob/master/screenshot/ss4.png)
 ```
     // Hide **navigation** bar, show **status** bar (no IME change). 
     SystemBarsAction.HIDE_NAV_SHOW_STATUS,
 ```
-![screenshot](https://github.com/hamzaious/ControlSystemBars/blob/master/screenshot/ss5.mp4)
+![screenshot](https://github.com/hamzaious/ControlSystemBars/blob/master/screenshot/ss5.png)
 ```
     // Hide both **status** and **navigation** bars (immersive-style; IME unchanged). 
     SystemBarsAction.HIDE_SYSTEM_BARS,
 ```
-![screenshot](https://github.com/hamzaious/ControlSystemBars/blob/master/screenshot/ss7.mp4)
+![screenshot](https://github.com/hamzaious/ControlSystemBars/blob/master/screenshot/ss7.png)
 ```
     // Hide the on-screen keyboard (IME) only; system bars unchanged. 
     SystemBarsAction.HIDE_KEYBOARD,
 ```
-![screenshot](https://github.com/hamzaious/ControlSystemBars/blob/master/screenshot/ss1.mp4)
+![screenshot](https://github.com/hamzaious/ControlSystemBars/blob/master/screenshot/ss1.png)
 ```
     // Show the on-screen keyboard (IME) only; system bars unchanged. 
     SystemBarsAction.SHOW_KEYBOARD,
 ```
-![screenshot](https://github.com/hamzaious/ControlSystemBars/blob/master/screenshot/ss6.mp4)
+![screenshot](https://github.com/hamzaious/ControlSystemBars/blob/master/screenshot/ss6.png)
 ```
     // Hide **status bar**, **navigation bar**, and **IME** (everything). 
     SystemBarsAction.HIDE_ALL,
 ```
-![screenshot](https://github.com/hamzaious/ControlSystemBars/blob/master/screenshot/ss7.mp4)
+![screenshot](https://github.com/hamzaious/ControlSystemBars/blob/master/screenshot/ss7.png)
 ```
     // Show **status bar**, **navigation bar**, and **IME** (everything). 
     SystemBarsAction.SHOW_ALL
 ```
-![screenshot](https://github.com/hamzaious/ControlSystemBars/blob/master/screenshot/ss6.mp4)
+![screenshot](https://github.com/hamzaious/ControlSystemBars/blob/master/screenshot/ss6.png)
 ### Update Status Bar Themes:
 #### For System Default to pick theme and apply to system bars don't pass the values.
 ```
