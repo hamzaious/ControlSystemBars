@@ -27,12 +27,6 @@ implementation("com.github.hamzaious:ControlSystemBars:v1.0.0")
 ```
 
 ## Implementation
-
-```
-implementation("com.github.hamzaious:ControlSystemBars:v1.0.0")
-```
-
-
 ### Usage Example:
 
 ```
@@ -42,7 +36,7 @@ implementation("com.github.hamzaious:ControlSystemBars:v1.0.0")
 
 
 
-![screenshot](https://github.com/hamzaious/ControlSystemBars/blob/master/screenshot/demo2.gif)
+![screenshot](https://github.com/hamzaious/ControlSystemBars/blob/master/screenshot/demo.mp4)
 
    
 
