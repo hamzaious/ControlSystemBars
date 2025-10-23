@@ -28,7 +28,9 @@ implementation("com.github.hamzaious:ControlSystemBars:v1.0.0")
 
 ## Implementation
 
-### XML Example:
+
+
+### Usage Example:
 
 ```
 
