@@ -111,7 +111,7 @@ This work would not have been possible without the invaluable contributions of *
 *Hamza Arshad**. His expertise, dedication, and unwavering support have been instrumental in
 bringing this project to fruition.
 
-![screenshot]()
+![screenshot](https://github.com/hypersoftdev/TextCraft/blob/master/Screens/profile_image.jpg?raw=true)
 
 We are deeply grateful for Nisar Bahoo's involvement and his belief in the importance of this work.
 His contributions have made a significant impact, and we are honored to have had the opportunity to
