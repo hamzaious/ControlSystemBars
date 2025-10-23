@@ -42,7 +42,10 @@ android {
 
 dependencies {
 
-    implementation(project(":systembars-utils"))
+    //implementation(project(":systembars-utils"))
+
+    implementation("com.github.hamzaious:ControlSystemBars:v1.0.0")
+
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
