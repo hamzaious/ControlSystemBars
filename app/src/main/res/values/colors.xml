@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black40">#66000000</color>
+    <color name="namazTimeColor40">#993A4756</color>
+    <color name="gray">#ECEFF2</color>
+    <color name="neutral500">#31393C</color>
+    <color name="neutral400">#687478</color>
+    <color name="neutral300">#A6B0B3</color>
+</resources>

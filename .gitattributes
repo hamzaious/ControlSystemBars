@@ -1,0 +1,6 @@
+# Force LF for all text files (good for Android/Gradle/Kotlin)
+*           text=auto eol=lf
+
+# Allow Windows-only scripts to keep CRLF (if you have any)
+*.bat       text eol=crlf
+*.cmd       text eol=crlf
