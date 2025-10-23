@@ -42,7 +42,7 @@ implementation("com.github.hamzaious:ControlSystemBars:v1.0.0")
 
 
 
-![screenshot](https://github.com/hamzaious/ControlSystemBars/blob/master/screenshot/demo.mp4)
+![screenshot](https://github.com/hamzaious/ControlSystemBars/blob/master/screenshot/demo2.gif)
 
    
 
