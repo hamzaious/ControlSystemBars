@@ -26,6 +26,8 @@ class MainActivity : AppCompatActivity() {
         // Initial setup - show system bars with padding
         controlSystemBars(
             type = SystemBarsAction.SHOW_SYSTEM_BARS,
+            darkStatusBars = true,
+            darkNavigationBars = true,
             topInsetPadding = true,
             bottomInsetPadding = true
         )
