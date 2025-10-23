@@ -44,28 +44,35 @@ controlSystemBars(
 ### Use input to modify:
 
 ```
-     Show both **status** and **navigation** bars (no IME change). 
+    // Show both **status** and **navigation** bars (no IME change). 
     SystemBarsAction.SHOW_SYSTEM_BARS,
-
-     Hide **status** bar, show **navigation** bar (no IME change). 
+```
+```
+    // Hide **status** bar, show **navigation** bar (no IME change). 
     SystemBarsAction.HIDE_STATUS_SHOW_NAV,
-
-     Hide **navigation** bar, show **status** bar (no IME change). 
+```
+```
+    // Hide **navigation** bar, show **status** bar (no IME change). 
     SystemBarsAction.HIDE_NAV_SHOW_STATUS,
-
-     Hide both **status** and **navigation** bars (immersive-style; IME unchanged). 
+```
+```
+    // Hide both **status** and **navigation** bars (immersive-style; IME unchanged). 
     SystemBarsAction.HIDE_SYSTEM_BARS,
-
-     Hide the on-screen keyboard (IME) only; system bars unchanged. 
+```
+```
+    // Hide the on-screen keyboard (IME) only; system bars unchanged. 
     SystemBarsAction.HIDE_KEYBOARD,
-
-     Show the on-screen keyboard (IME) only; system bars unchanged. 
+```
+```
+    // Show the on-screen keyboard (IME) only; system bars unchanged. 
     SSystemBarsAction.HOW_KEYBOARD,
-
-     Hide **status bar**, **navigation bar**, and **IME** (everything). 
+```
+```
+    // Hide **status bar**, **navigation bar**, and **IME** (everything). 
     SystemBarsAction.HIDE_ALL,
-
-     Show **status bar**, **navigation bar**, and **IME** (everything). 
+```
+```
+    // Show **status bar**, **navigation bar**, and **IME** (everything). 
     SystemBarsAction.SHOW_ALL
 ```
 ### Update Status Bar Themes:
